@@ -1,3 +1,3 @@
-module github.com/chzyer/logex
+module github.com/pedroalbanese/logex
 
 go 1.15
